@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DuckKeep
-- 👀 I’m interested in all IT 
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in all programing knowledge
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me send email to hateh441@gmail.com
+- 📫 How to reach me - send email to hateh441@gmail.com
 
 <!---
 DuckKeep/DuckKeep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
