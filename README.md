@@ -1,6 +1,7 @@
-Hello there
-- :student: I'm currently studying.
-- :desktop_computer: I’m currently learning PHP, JavaScript, powershell, java
-- :speech_balloon: If you want to reach me send email to hateh441@gmail.com 
-
+<h1 style="padding-left:10px;">Hello there</h1>
+<ul style="font-size:16px;">
+ <li>:student: I'm currently a student.</li>
+ <li>:desktop_computer: I am currently learning PHP, JavaScript, powershell, java</li>
+ <li>:speech_balloon: If you want to reach out to me send an email to hateh441@gmail.com </li>
+</ul>
 
